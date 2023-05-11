@@ -1,4 +1,4 @@
-# Welcome to my Anchit Boruah's GitHub Profile!
+# Welcome to Anchit Boruah's GitHub Profile!
 - 👋 Hi, I’m Anchit Boruah (Analyst in Demand)
 - 👀 I’m very inclined towards Data Analysis & Process Automations
 - 🌱 I’m well versed with learning Power Platform Tools, SQL, Tableau, PoweBI, Advanced Excel & Python
